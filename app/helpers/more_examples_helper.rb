@@ -1,0 +1,2 @@
+module MoreExamplesHelper
+end
